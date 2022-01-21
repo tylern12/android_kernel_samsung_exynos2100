@@ -782,3 +782,4 @@ config SENSORS_LPS22H
 config SENSORS_LPS25H
 	bool "barometer lps25hhtr"
 	default y if SENSORS_DYNAMIC_SENSORLIST
+
